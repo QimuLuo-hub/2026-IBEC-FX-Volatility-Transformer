@@ -45,7 +45,7 @@ Four variants are compared: **Transformer baseline** (technical only), **Macro-a
 
 ## Related
 
-This paper grew out of the SURF 2025 project *FX Risk Sentinel: AI and Econometrics for Predictive Risk Analysis*. The poster and the FX risk-signal platform code are in [FX-Risk-Signal-Detection](https://github.com/QimuLuo-hub/FX-Risk-Signal-Detection).
+This paper grew out of the SURF 2025 project *FX Risk Sentinel: AI and Econometrics for Predictive Risk Analysis*. The poster and the FX risk-signal platform code are in [2025-Citi-FX-Risk-Signal-Detection](https://github.com/QimuLuo-hub/2025-Citi-FX-Risk-Signal-Detection).
 
 ## Citation
 
